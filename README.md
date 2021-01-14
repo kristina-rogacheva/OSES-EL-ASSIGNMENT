@@ -16,6 +16,7 @@ In the file local.conf add the following:
 5. IMAGE_INSTALL_append = " heartbeat"
 
    IMAGE_INSTALL_append = " heartbeatmodule"
+   
    KERNEL_MODULE_AUTOLOAD += "heartbeatmodule"
    
 Now return in the build_qemuarm directory, run
