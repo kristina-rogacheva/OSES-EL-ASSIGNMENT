@@ -1,5 +1,5 @@
 # OSES-EL-ASSIGNMENT
-Heart Rate Monitor - Embedded Linux
+Heart Rate Monitor - Embedded Linux - Kristina Rogacheva, s280065
 
 
 In order to integrate this layer in a Yocto-based distribution follow these steps:
